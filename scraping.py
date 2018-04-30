@@ -8,5 +8,5 @@ html = urllib.urlopen(url).read()
 readable_article = Document(html).summary()
 readable_title = Document(html).short_title()
 
-print readable_article
-print readable_title
+print(readable_article)
+print(readable_title)
