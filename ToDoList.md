@@ -7,3 +7,5 @@
         1. 連番画像ファイルを動画化（https://qiita.com/itoru257/items/228a91404fa77c780fd4）
 1. スクレイピングプログラム作成。
 1. Youtube動画アップロードAPIプログラム作成。
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
